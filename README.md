@@ -8,10 +8,11 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import the required libraries and read the dataframe.
+2. Assign hours to X and scores to Y.
+3. Implement training set and test set of the dataframe
+4. Plot the required graph both for test data and training data.
+5. Find the values of MSE , MAE and RMSE.
 
 ## Program:
 ```
@@ -63,20 +64,21 @@ plt.show()
 ```
 
 ## Output:
+### DATA HEAD 
 ![image](https://github.com/AkilaMohan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707852/0a00fe6a-e3b1-4e25-aeab-70dddce34de1)
-
+### DATA TAIL
 ![image](https://github.com/AkilaMohan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707852/2f7d9d24-34da-476a-9b14-43580448a072)
-
+### ARRAY VALUES OF X
 ![image](https://github.com/M-Nikhil20/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707852/c436ddc7-6d86-451e-aa11-c99c416f7722)
-
+### ARRAY VALUES OF Y
 ![image](https://github.com/M-Nikhil20/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707852/4a4c8618-bd2d-411f-8668-d5920eb5f883)
-
+### VALUES OF Y PREDICTION
 ![image](https://github.com/M-Nikhil20/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707852/6654f829-88d2-4b7b-8ab9-e54aabb92174)
-
+### ARRAY VALUES OF Y TEST
 ![image](https://github.com/M-Nikhil20/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707852/eec2e065-a686-452e-9882-db6f541e2a1b)
-
+### TRAINING SET GRAPH
 ![image](https://github.com/M-Nikhil20/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707852/c0376423-6150-4ba9-bc7e-24fcc44d4054)
-
+### VALUES OF MSE, MAE AND RMSE
 ![image](https://github.com/M-Nikhil20/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707852/2e947ffe-6bac-4356-9f94-311a851e40b0)
 
 ![image](https://github.com/M-Nikhil20/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707852/7197daf2-a3a7-451a-9c8f-a509aab7bfb4)
